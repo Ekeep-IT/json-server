@@ -70,7 +70,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/typicode/json-server.git"
+    "url": "git://github.com/Ekeep-IT/json-server.git"
   },
   "keywords": [
     "JSON",
@@ -88,12 +88,12 @@
     "dummy",
     "sandbox"
   ],
-  "author": "Typicode <typicode@gmail.com>",
+  "author": "Typicode <vincent.ducroquet@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typicode/json-server/issues"
+    "url": "https://github.com/Ekeep-IT/json-server/issues"
   },
-  "homepage": "https://github.com/typicode/json-server",
+  "homepage": "https://github.com/Ekeep-IT/json-server",
   "engines": {
     "node": ">=12"
   },
