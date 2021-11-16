@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "ekeep-json-server",
   "version": "0.17.0",
   "description": "Get a full fake REST API with zero coding in less than 30 seconds",
   "type": "module",
